@@ -20,7 +20,6 @@ public class MakeVehicle {
 		bicycle.move(50);
 		bicycle.showPofile();
 		
-		
 	}
 	
 }
